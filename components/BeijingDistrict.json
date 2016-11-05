@@ -1,0 +1,59 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "ALL ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "海淀区",
+    "name": "海淀区 ",
+    "checked": false
+  },
+  {
+    "path": "朝阳区",
+    "name": "朝阳区 ",
+    "checked": false
+  },
+  {
+    "path": "东城区",
+    "name": "东城区 ",
+    "checked": false
+  },
+  {
+    "path": "西城区",
+    "name": "西城区 ",
+    "checked": false
+  },
+  {
+    "path": " 房山区",
+    "name": " 房山区 ",
+    "checked": false
+  },
+  {
+    "path": " 石景山区",
+    "name": " 石景山区 ",
+    "checked": false
+  },
+  {
+    "path": " 丰台区",
+    "name": " 丰台区 ",
+    "checked": false
+  },
+  {
+    "path": " 昌平区",
+    "name": " 昌平区 ",
+    "checked": false
+  },
+  {
+    "path": " 燕郊",
+    "name": " 燕郊 ",
+    "checked": false
+  },
+  {
+    "path": " 延庆",
+    "name": " 延庆 ",
+    "checked": false
+  },
+  
+]

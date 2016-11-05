@@ -1,0 +1,59 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "ALL ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "伯明翰",
+    "name": "伯明翰 ",
+    "checked": false
+  },
+  {
+    "path": "曼彻斯特",
+    "name": "曼彻斯特 ",
+    "checked": false
+  },
+  {
+    "path": "利兹",
+    "name": "利兹 ",
+    "checked": false
+  },
+  {
+    "path": "谢菲尔德",
+    "name": "谢菲尔德 ",
+    "checked": false
+  },
+  {
+    "path": " 伦敦",
+    "name": " 伦敦 ",
+    "checked": false
+  },
+  {
+    "path": " 纽卡斯尔",
+    "name": " 纽卡斯尔 ",
+    "checked": false
+  },
+  {
+    "path": " 利物浦",
+    "name": " 利物浦 ",
+    "checked": false
+  },
+  {
+    "path": " 布拉德福德",
+    "name": " 布拉德福德 ",
+    "checked": false
+  },
+  {
+    "path": " 布里斯托",
+    "name": " 布里斯托 ",
+    "checked": false
+  },
+  {
+    "path": " 莱斯特",
+    "name": " 莱斯特 ",
+    "checked": false
+  },
+  
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "全国 ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "阿拉巴马州",
+    "name": "阿拉巴马州 ",
+    "checked": false
+  },
+  {
+    "path": "阿拉斯加州",
+    "name": "阿拉斯加州 ",
+    "checked": false
+  },
+  {
+    "path": "阿利桑那州",
+    "name": "阿利桑那州 ",
+    "checked": false
+  },
+  {
+    "path": "蒙哥马利",
+    "name": "蒙哥马利 ",
+    "checked": false
+  },
+  
+]

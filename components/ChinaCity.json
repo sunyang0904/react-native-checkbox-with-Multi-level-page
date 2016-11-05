@@ -1,0 +1,29 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "全国 ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "北京",
+    "name": "北京 ",
+    "checked": false
+  },
+  {
+    "path": "上海",
+    "name": "上海 ",
+    "checked": false
+  },
+  {
+    "path": "广州",
+    "name": "广州 ",
+    "checked": false
+  },
+  {
+    "path": "杭州",
+    "name": "杭州 ",
+    "checked": false
+  },
+  
+]

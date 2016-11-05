@@ -1,0 +1,44 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "ALL ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "蒙哥马利",
+    "name": "蒙哥马利 ",
+    "checked": false
+  },
+  {
+    "path": "伯明翰",
+    "name": "伯明翰 ",
+    "checked": false
+  },
+  {
+    "path": "莫比尔",
+    "name": "莫比尔 ",
+    "checked": false
+  },
+  {
+    "path": "亨茨维尔",
+    "name": "亨茨维尔 ",
+    "checked": false
+  },
+  {
+    "path": " 塔斯卡卢萨",
+    "name": " 塔斯卡卢萨 ",
+    "checked": false
+  },
+  {
+    "path": " 迪凯特",
+    "name": " 迪凯特 ",
+    "checked": false
+  },
+  {
+    "path": " 哥伦比亚纳",
+    "name": " 哥伦比亚纳 ",
+    "checked": false
+  },
+  
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "全国 ",
+    "short_name": "ALL",
+    "checked": false
+  },
+  {
+    "path": "英格兰",
+    "name": "英格兰 ",
+    "checked": false
+  },
+  {
+    "path": "威尔士",
+    "name": "威尔士 ",
+    "checked": false
+  },
+  {
+    "path": "苏格兰",
+    "name": "苏格兰 ",
+    "checked": false
+  },
+  {
+    "path": "北爱尔兰",
+    "name": "北爱尔兰 ",
+    "checked": false
+  },
+  
+]

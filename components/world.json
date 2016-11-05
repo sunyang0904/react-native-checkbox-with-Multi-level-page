@@ -1,0 +1,23 @@
+[
+  {
+    "path": "中国",
+    "name": "中国 ",
+    "checked": false
+  },
+  {
+    "path": "英国",
+    "name": "英国 ",
+    "checked": false
+  },
+  {
+    "path": "美国",
+    "name": "美国 ",
+    "checked": false
+  },
+  {
+    "path": "加拿大",
+    "name": "加拿大 ",
+    "checked": false
+  },
+  
+]
